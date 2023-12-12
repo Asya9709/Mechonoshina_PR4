@@ -43,10 +43,18 @@
       <command value="№1" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.№1.php">
+    <configuration name="№1.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/.gitignore/№1.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="№1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/№1.php">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.№1.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +68,7 @@
       <workItem from="1702398558080" duration="30000" />
       <workItem from="1702398675731" duration="27000" />
       <workItem from="1702399410089" duration="125000" />
-      <workItem from="1702400288988" duration="1973000" />
+      <workItem from="1702400288988" duration="7229000" />
     </task>
     <servers />
   </component>
